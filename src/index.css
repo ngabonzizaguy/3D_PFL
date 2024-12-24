@@ -34,22 +34,6 @@ section {
     scroll-snap-align: center;
 }
 
-section:nth-child(1) {
-    background-color: rgb(187, 110, 220);
-}
-
-section:nth-child(2) {
-    background-color: rgb(20, 29, 55);
-}
-
-section:nth-child(3) {
-    background-color: rgb(219, 135, 118);
-}
-
-section:nth-child(4) {
-    background-color: rgb(89, 108, 80);
-}
-
 @media screen and (min-width: 640px) {
     .container {
         max-width: 640px;
